@@ -10,7 +10,7 @@ export const styles = {
       justifyContent: "space-between",
       height: 100,
       width: "100%",
-      background: 'red'
+      background: '#6185fb'
     },
     imagenes: {
       margin:10,
